@@ -1,0 +1,4 @@
+# Análisis estático con las reglas por defecto de Dart.
+analyzer:
+  exclude:
+    - build/**
